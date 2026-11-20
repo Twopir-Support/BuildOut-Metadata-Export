@@ -1,0 +1,16 @@
+# Salesforce CLI
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+**/.sfdx/
+# Logs / OS / editor
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+# Secrets
+.env
+*.key
